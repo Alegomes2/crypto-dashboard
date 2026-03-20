@@ -6,7 +6,7 @@ Um dashboard interativo desenvolvido em React que exibe dados em tempo real de c
 
 ## 🚀 Demonstração
 
-🔗 (adicione aqui o link quando fizer deploy)
+🔗 (https://crypto-dashboard-seven-jet.vercel.app/)
 
 ---
 
